@@ -1,5 +1,5 @@
 The goal of this project was to explore the TCP protocol.
-To this end, the python programming language and socket API were used in a simple and pedagogical manner. 
+To this end, the python programming language and socket API were used in a simple and pedagogical manner for CS-3622.
 A socket is communications abstraction, that provides an interface for
 managing and working with network protocols such as UDP and TCP.
 
